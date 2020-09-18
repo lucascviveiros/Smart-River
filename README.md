@@ -1,6 +1,6 @@
 # Smart River (Desktop)
 
-Smart River Project is still under development, the focus of the project is to analyze and receive the data by the three sensors points under the Fervença River in Portugal (Arduino/raspberry) and to show the respective attributes by generating 3D Graphs made in Unity3D plataform. We use an average analysis by week and by months of the year, and showing the data to the visitors of Centro Ciência Viva de Bragança in an animated way. By joining technical skills with science communication, the project is still being developed with Unity3D and Arduino. We cover the Relative Air Humidity, Water Temperature, Ambient Temperature, Conductivity, and pH of the river.
+Smart River Project is still under development, the focus of the project is to analyze and receive the data by the three sensors points under the Fervença River in Portugal (with Arduino/raspberry) and to show the respective attributes by generating 3D Graphs made in Unity3D platform. We use an average analysis by week and by months of the year, and showing the data to the visitors of Centro Ciência Viva de Bragança in an animated way. By joining technical skills with science communication. We cover the Relative Air Humidity, Water Temperature, Ambient Temperature, Conductivity, and pH of the river.
 
 # Main Scene
 ![MENU___SMARTRIVER___BGC__v2-01](https://user-images.githubusercontent.com/21102697/93584480-44f04480-f99d-11ea-81e1-7312a2e4626e.jpg)
